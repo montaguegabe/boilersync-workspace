@@ -1,0 +1,2 @@
+- Use plan mode: Add zensical docs about the whole boilersync ensemble to '/Users/gabemontague/Projects boilersync/code/boilersync-workspace/boilersync-cli'
+- Implement a basic interface in the electron app that essentially functions this way: 1. Open app, 2. select one of the existing templates from 
