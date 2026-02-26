@@ -1,0 +1,9 @@
+---
+description: Repository structure documentation
+globs: 
+alwaysApply: false
+---
+This workspace contains multiple repositories:
+
+- `boilersync-cli`: Boilersync CLI for scaffolding and syncing boilerplate templates.
+- `boilersync-desktop`: Boilersync desktop application and related workspace tooling.

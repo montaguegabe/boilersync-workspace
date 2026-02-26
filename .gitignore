@@ -1,0 +1,13 @@
+# Generated
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+CLAUDE.md
+AGENTS.md
+
+# Ignore repository directories
+boilersync-cli/
+boilersync-cli
+boilersync-desktop/
+boilersync-desktop

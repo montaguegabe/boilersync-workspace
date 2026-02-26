@@ -1,0 +1,14 @@
+{
+  "repos": [
+    {
+      "url": "https://github.com/montaguegabe/boilersync.git",
+      "name": "boilersync-cli",
+      "description": "Boilersync CLI for scaffolding and syncing boilerplate templates."
+    },
+    {
+      "url": "https://github.com/montaguegabe/boilersync-desktop",
+      "name": "boilersync-desktop",
+      "description": "Boilersync desktop application and related workspace tooling."
+    }
+  ]
+}

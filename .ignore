@@ -1,0 +1,5 @@
+# Allow us to search inside these gitignored directories
+!boilersync-cli/
+!boilersync-cli
+!boilersync-desktop/
+!boilersync-desktop
