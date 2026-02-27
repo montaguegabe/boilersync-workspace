@@ -9,6 +9,11 @@
       "url": "https://github.com/montaguegabe/boilersync-desktop",
       "name": "boilersync-desktop",
       "description": "Boilersync desktop application and related workspace tooling."
+    },
+    {
+      "url": "https://github.com/montaguegabe/boilersync-skills",
+      "name": "boilersync-skills",
+      "description": "Agent skills and documentation for BoilerSync workflows and template authoring."
     }
   ]
 }

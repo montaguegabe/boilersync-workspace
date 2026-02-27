@@ -7,3 +7,4 @@ This workspace contains multiple repositories:
 
 - `boilersync-cli`: Boilersync CLI for scaffolding and syncing boilerplate templates.
 - `boilersync-desktop`: Boilersync desktop application and related workspace tooling.
+- `boilersync-skills`: Agent skills and documentation for BoilerSync workflows and template authoring.
