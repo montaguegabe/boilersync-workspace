@@ -6,5 +6,7 @@ alwaysApply: false
 This workspace contains multiple repositories:
 
 - `boilersync-cli`: Boilersync CLI for scaffolding and syncing boilerplate templates.
+- `boilersync-react`: Shared React components and utilities for BoilerSync template workflows.
+- `multi-react`: Shared React diff viewer and related UI utilities used by Multi and BoilerSync.
 - `boilersync-desktop`: Boilersync desktop application and related workspace tooling.
 - `boilersync-skills`: Agent skills and documentation for BoilerSync workflows and template authoring.

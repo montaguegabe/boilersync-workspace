@@ -1,9 +1,21 @@
 {
   "repos": [
     {
-      "url": "https://github.com/montaguegabe/boilersync.git",
+      "url": "https://github.com/montaguegabe/boilersync",
       "name": "boilersync-cli",
       "description": "Boilersync CLI for scaffolding and syncing boilerplate templates."
+    },
+    {
+      "url": "https://github.com/montaguegabe/boilersync-react",
+      "name": "boilersync-react",
+      "description": "Shared React components and utilities for BoilerSync template workflows.",
+      "allowSymlink": true
+    },
+    {
+      "url": "https://github.com/montaguegabe/multi-react",
+      "name": "multi-react",
+      "description": "Shared React diff viewer and related UI utilities used by Multi and BoilerSync.",
+      "allowSymlink": true
     },
     {
       "url": "https://github.com/montaguegabe/boilersync-desktop",

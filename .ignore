@@ -5,3 +5,17 @@
 !boilersync-desktop
 !boilersync-skills/
 !boilersync-skills
+
+# BEGIN multi-managed: search-inside-gitignored-repos
+# Allow us to search inside these gitignored directories
+!boilersync-cli/
+!boilersync-cli
+!boilersync-react/
+!boilersync-react
+!multi-react/
+!multi-react
+!boilersync-desktop/
+!boilersync-desktop
+!boilersync-skills/
+!boilersync-skills
+# END multi-managed: search-inside-gitignored-repos
