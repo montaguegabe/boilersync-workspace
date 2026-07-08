@@ -14,8 +14,8 @@ Then install the [extension](https://marketplace.visualstudio.com/items?itemName
 
 ## BoilerSync Skill Installation
 
-Install the BoilerSync template skill with `vercel-labs/skills`:
+Install the BoilerSync skill with `vercel-labs/skills`:
 
 ```bash
-npx skills add montaguegabe/boilersync-skills --skill boilersync-template
+npx skills add montaguegabe/boilersync-skills --skill boilersync
 ```
