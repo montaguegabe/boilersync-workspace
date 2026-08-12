@@ -1,0 +1,3 @@
+For this workspace, after changing any skill, install it globally using the `-g` flag.
+
+Do not consider skill changes complete until the global install step has been run.

@@ -27,5 +27,9 @@
       "name": "boilersync-skills",
       "description": "Agent skills and documentation for BoilerSync workflows and template authoring."
     }
-  ]
+  ],
+  "agentInstructions": {
+    "enabled": true,
+    "includeRepoDescriptions": true
+  }
 }
